@@ -3,7 +3,6 @@
 //
 
 #include "RoomInterface.h"
-#include "build_info.h"
 
 class RoomDevice;
 
